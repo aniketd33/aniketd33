@@ -39,19 +39,19 @@ Currently learning **Data Science, Big Data, NLP & Gen AI** 🚀
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketdombale&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketd33&layout=compact&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketdombale&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketd33&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketdombale&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketd33&theme=tokyonight)
 
 ---
 
