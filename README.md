@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=18&duration=3000&pause=800&color=4A00E0&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Hi+there%2C+I+am+Aniket+Dombale;Data+Science+%18+AI+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=20&duration=3000&pause=800&color=4A00E0&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile!;Hi+there%2C+I+am+Aniket+Dombale;Data+Science+%20+AI+Enthusiast"/>
 </p>
 
 <p align="center">
