@@ -18,8 +18,7 @@
 
 ### 👨‍💻 About Me
 
-I’m passionate about **technology & innovation**, with a strong interest in  
-**Data Science, Artificial Intelligence & Generative AI** 🤖✨  
+I’m passionate about **technology & innovation**, with a strong interest in  **Data Science, Artificial Intelligence & Generative AI** 🤖  
 
 
 ### 📫 How to Reach Me
