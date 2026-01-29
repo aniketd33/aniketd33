@@ -1,18 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5f2c82,100:49a09d&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-updating-brightgreen">
+  <img src="https://img.shields.io/badge/status-updating-success">
   <img src="https://img.shields.io/badge/Python-3.13-pink">
 </p>
 
 ---
 
-### 👋 About Me
+### 👨‍💻 About Me
 
-I'm passionate about technology and love exploring the fascinating world of **IoT and AI** 🤖  
-Currently learning **Data Science, Big Data, NLP & Gen AI** 🚀
+I’m passionate about **technology & innovation**, with a strong interest in  
+**IoT, Artificial Intelligence, Data Science & Generative AI** 🤖✨  
+
+Currently building skills in **Big Data, Hadoop, NLP and ML projects** 🚀
 
 ---
 
@@ -29,32 +31,30 @@ Currently learning **Data Science, Big Data, NLP & Gen AI** 🚀
 
 ---
 
-### 🛠 Languages and Tools
+### 🧰 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,mysql,java,git,docker,hadoop" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,mysql,java,git,github,docker,hadoop,linux" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketd33&layout=compact&theme=tokyonight&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketd33&layout=compact&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ### 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketd33&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketd33&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketd33&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketd33&theme=github-dark)
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
-</p>
+###  Thanks for Visiting!🩵
