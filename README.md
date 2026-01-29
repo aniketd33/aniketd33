@@ -7,16 +7,12 @@
   <img src="https://img.shields.io/badge/Python-3.13-pink">
 </p>
 
----
-
 ### 👨‍💻 About Me
 
 I’m passionate about **technology & innovation**, with a strong interest in  
 **IoT, Artificial Intelligence, Data Science & Generative AI** 🤖✨  
 
 Currently building skills in **Big Data, Hadoop, NLP and ML projects** 🚀
-
----
 
 ### 📫 How to Reach Me
 
@@ -29,32 +25,24 @@ Currently building skills in **Big Data, Hadoop, NLP and ML projects** 🚀
   </a>
 </p>
 
----
-
 ### 🧰 Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,jupyter,mysql,java,git,github,docker,hadoop,linux" />
 </p>
 
----
-
 ### 📊 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aniketd33&layout=compact&theme=github_dark&cache_seconds=1800)
-
----
 
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketd33&show_icons=true&theme=github_dark&cache_seconds=1800)
 
----
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketd33&theme=github-dark)
 
----
-
-###  Thanks for Visiting!🩵
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:49a09d,100:5f2c82&height=120&section=footer"/>
+</p>
