@@ -1,5 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5f2c82,100:49a09d&height=180&section=header&text=Welcome%20to%20my%20profile!&fontSize=42&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=220&section=header&text=Welcome%20to%20my%20profile!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=800&color=4A00E0&center=true&vCenter=true&width=600&lines=Gen+AI+%7C+Data+Science+Learner;Big+Data+%7C+Hadoop+Enthusiast;Python+Developer;Always+Learning+New+Things+%F0%9F%9A%80"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aniketd33&label=Profile%20Views&color=4A00E0&style=flat"/>
 </p>
 
 <p align="center">
@@ -11,8 +19,6 @@
 
 I’m passionate about **technology & innovation**, with a strong interest in  
 **IoT, Artificial Intelligence, Data Science & Generative AI** 🤖✨  
-
-Currently building skills in **Big Data, Hadoop, NLP and ML projects** 🚀
 
 ### 📫 How to Reach Me
 
@@ -43,6 +49,10 @@ Currently building skills in **Big Data, Hadoop, NLP and ML projects** 🚀
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aniketd33&theme=github-dark)
 
+###  Thanks for Visiting!🩵
+
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:49a09d,100:5f2c82&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=120&section=footer"/>
 </p>
