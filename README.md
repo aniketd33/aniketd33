@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aniketd33&label=Profile%20Views&color=4A00E0&style=flat"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/status-updating-success">
   <img src="https://img.shields.io/badge/Python-3.13-pink">
 </p>
