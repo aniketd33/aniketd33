@@ -13,13 +13,10 @@
 
 </div>
 
----
-
 # 👨‍💻 About Me
 
 I'm Aniket Dombale, a B.Sc(Hons) Data Science Student passionate about building intelligent AI solutions.
 
----
 
 # 📫 Connect with Me
 
@@ -35,7 +32,6 @@ I'm Aniket Dombale, a B.Sc(Hons) Data Science Student passionate about building 
 
 </p>
 
----
 
 # 💻 Languages & Tools
 
