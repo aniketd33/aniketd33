@@ -17,7 +17,7 @@
 
 # 👨‍💻 About Me
 
-I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate about building intelligent AI solutions.
+I'm Aniket Dombale, a B.Sc(Hons) Data Science Student passionate about building intelligent AI solutions.
 
 ---
 
@@ -45,19 +45,6 @@ I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate abou
 
 </p>
 
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketd33&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketd33&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -67,7 +54,6 @@ I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate abou
 
 </p>
 
----
 
 # 📈 Contribution Graph
 
@@ -77,17 +63,6 @@ I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate abou
 
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aniketd33&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
 
 # 📈 Profile Views
 
@@ -96,8 +71,6 @@ I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate abou
 ![](https://komarev.com/ghpvc/?username=aniketd33&style=for-the-badge&color=blue)
 
 </p>
-
----
 
 <div align="center">
 
