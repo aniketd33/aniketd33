@@ -9,19 +9,23 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=450&lines=Gen+AI+Engineer+🤖;AI+%26+ML+Developer;Data+Science+Student;Building+Intelligent+Applications" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1200&lines=Hi+there+👋,+I+am+Aniket+Dombale;Welcome+to+my+GitHub+Profile!;AI+%26+ML+Engineer+🤖;B.Sc.+(Hons)+Data+Science+Student;Building+AI+Projects+with+Python+🚀)](https://git.io/typing-svg)
 
 </div>
 
+---
 
-I'm passionate about technology and love exploring the fascinating world of AI, Machine Learning, Data Science and Intelligent Systems 🤖
+# 👨‍💻 About Me
 
+I'm **Aniket A. Dombale**, a **B.Sc(Hons) Data Science Student** passionate about building intelligent AI solutions.
 
-## 📫 How to Reach Me
+---
+
+# 📫 Connect with Me
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/aniket-dombale/">
+<a href="https://www.linkedin.com/in/aniket-dombale/" target="_blank">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
@@ -33,30 +37,17 @@ I'm passionate about technology and love exploring the fascinating world of AI, 
 
 ---
 
-# Languages and Tools
+# 💻 Languages & Tools
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://skillicons.dev/icons?i=opencv" height="45"/>
-<img src="https://skillicons.dev/icons?i=sklearn" height="45"/>
-<img src="https://skillicons.dev/icons?i=java" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=git" height="45"/>
-<img src="https://skillicons.dev/icons?i=github" height="45"/>
-<img src="https://skillicons.dev/icons?i=docker" height="45"/>
-<img src="https://skillicons.dev/icons?i=linux" height="45"/>
-<img src="https://skillicons.dev/icons?i=vscode" height="45"/>
-<img src="https://skillicons.dev/icons?i=jupyter" height="45"/>
-<img src="https://skillicons.dev/icons?i=streamlit" height="45"/>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,pandas,numpy,matplotlib,streamlit,fastapi,flask,mysql,git,github,docker,linux,vscode,jupyter,java" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -92,27 +83,24 @@ I'm passionate about technology and love exploring the fascinating world of AI, 
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniketd33&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aniketd33&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 Profile Views
 
-- 🌾 Smart Agricultural Agent
-- 📄 Intelligent Document Parsing System
-- ⚡ EcoWatts Smart Home Energy Analyzer
-- 🚦 AV Traffic Analyzer
-- 🤖 VisionSpec QC
-- 🧠 AI Travel Planning Agent
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=aniketd33&style=for-the-badge&color=blue)
+
+</p>
 
 ---
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=aniketd33&style=for-the-badge&color=blue)
-
-### ❤️ Thanks for Visiting
+### ❤️ Thanks for Visiting My Profile!
 
 </div>
