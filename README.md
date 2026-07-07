@@ -13,11 +13,9 @@
 
 </div>
 
----
 
 I'm passionate about technology and love exploring the fascinating world of AI, Machine Learning, Data Science and Intelligent Systems 🤖
 
----
 
 ## 📫 How to Reach Me
 
